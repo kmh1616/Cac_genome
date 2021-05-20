@@ -7,4 +7,4 @@ tandem_detect.py - use to find tandem repeat genes by using similarSequences.txt
 
 count_every_species_gene_number.pl - use to count every species gene number in each gene famliy clustered by OrthoMCL group.txt file.
 
-gene_number_and_length_count.pl - use to get gene number and length in the collinear blocks from MCScanX result .html file.
+gene_number_and_length_count.pl - use to get gene numbers and length in the collinear blocks from MCScanX result .html file.
