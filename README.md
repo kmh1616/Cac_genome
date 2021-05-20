@@ -9,4 +9,6 @@ count_every_species_gene_number.pl - use to count every species gene number in e
 
 gene_number_and_length_count.pl - use to get gene numbers and length in the collinear blocks from MCScanX result .html file.
 
-get_gene_from_group.pl - use to get genes of one species in the listed gene famlies.
+get_gene_from_group.pl - use to get genes of one species in the listed gene famlies from OrthoMCL group.txt file.
+
+gene.pl - use to get genes in the gene families expanded and contracted using the out.cafe file.
